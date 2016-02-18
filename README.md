@@ -1,2 +1,1 @@
-# dragonjik.gitgub.com
 dragonjik 
